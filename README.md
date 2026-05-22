@@ -1,18 +1,19 @@
-Data Engineer Learning Journey 
+ AI/ML Engineer Learning Journey 
 
-Goal: Become a Junior Data Engineer in Qatar by October 2026
+Start Date: May 19, 2026  
+Goal: Become an AI/ML Engineer by October 2026  
+Status: IN PROGRESS
 
-Duration: 6 months (May 2026 - October 2026)
+About This Project
 
-Location: Kalamassery, Kerala, India
+This repository documents my journey from student to AI/ML Engineer  
 
-About Me
-I'm a fresh B.Tech Computer Science graduate with a Data Science specialization, learning to become a Data Engineer through intensive hands-on projects.
+I'm learning:
+- ✅ Python for Data Science
+- ✅ Machine Learning Fundamentals
+- ✅ Deep Learning (Neural Networks, CNNs, RNNs)
+- ✅ Generative AI & LLMs
+- ✅ MLOps & Production Systems
+- ✅ Building Real Projects
 
-Skills I'm Building
-
-SQL: SELECT, WHERE, JOINs, GROUP BY, Window Functions
-Python: Data processing, pandas, NumPy, database connections
-Databases: PostgreSQL, schema design, normalization
-ETL/ELT: Data pipelines and transformations
-Tools: dbt, Airflow, Git/GitHub
+Course: Full-Stack AI Engineer 2026 (Udemy)  
