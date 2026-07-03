@@ -105,10 +105,12 @@
 # print(m)
 
 #dictionary
-students={"name":"fidha","class":"B","age":22}
-print(students.keys())
-print(type(students))
-print(students.values())
+# students={"name":"fidha","class":"B","age":22}
+# print(students.keys())
+# print(type(students))
+# print(students.values())
 
-a='A'
-print(type(a))
+# a='A'
+# print(type(a))
+
+
