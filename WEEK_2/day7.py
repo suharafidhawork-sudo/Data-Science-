@@ -93,5 +93,28 @@
 #     print("LOAN APPROVED")                          
 # else:
 #     print("LOAN REJECTED")   
-    
+
+
+#PASSWORD GENERATOR
+
+# p=int(input("enter the password:"))
+# if len(str(p))<=6:   ##TYPE CASTING
+#     print("weak")
+# elif len(str(p))>=6 and len(str(p))<10:
+#     print("medium")
+# elif len(str(p))>10:
+#     print("strong")  
+# else:
+#     print("INVALID!!!!!!")   
+
+
+#REVERSE OF A NUMBER    
+
+# num=int(input("enter the  number: "))
+# s=str(num)  ##TYPE CASTING
+# print(s[::-1])
+
+
+
+  
              
