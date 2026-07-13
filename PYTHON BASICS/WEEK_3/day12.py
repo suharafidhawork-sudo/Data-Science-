@@ -1,4 +1,4 @@
-#FOR LOOP PRACTICE QUESTIONS
+#-------------------------------------FOR LOOP PRACTICE QUESTIONS----------------------------------------------------------------
 
 # #Q1 factoriaL
 # num=int(input("enter the number: "))
@@ -6,7 +6,6 @@
 # for i in range(1,num+1):
 #     fact*=i
 # print(fact)
-
 
 # #Q2
 # #grocery billing
@@ -19,13 +18,12 @@
 # print("total amount:",cost) 
 # print("number of items purchased: ",number) 
 
-
 #Q3
 # #company salary calculations
 # num=int(input("enter the number of employees:"))
 # total=0
 # high=0
-# low=10000
+# low=10000000
 # for i in range(num):
 #     name=input("enter the name : ")
 #     sal=int(input("enter the salary:  "))
@@ -34,10 +32,9 @@
 #         high=sal
 #     if sal<low:
 #         low=sal
-# print("TOTAL: ",total)
+# print("TOTAL SALARY PAID : ",total)
 # print("highest:",high)
 # print("lowest:",low)
-
 
 # #Q4 
 # #restaurant order
@@ -47,11 +44,8 @@
 #     dish=input("enter the dish: ")
 #     price=int(input("enter the price: "))
 #     total+=price
-    
-    
 # print("BILL TOTAL: ",total)
 # print("AVERAGE DISH PRICE",total/n)    
-
 
 # #Q5
 # #students mark entry
@@ -71,13 +65,59 @@
 # print("LOWEST MARK: ",low)
 
 # #Q6
-# #ATM CASH
+# #ATM CASH       
 # total=0
 # n=int(input("enter the total number of deposit : "))
 # for i in range(1,n+1):
-#     print("enter the amount of deposit",i)
+#     print("enter the amount for deposit",i)
 #     a=int(input("amount: ")) 
 #     total+=a
-# print("TOTAL DEPOSIT AMOUNT:",total)      
+# print("TOTAL DEPOSIT AMOUNT:",total)
+
+  
+ 
+
+
+   
+           
+           
            
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

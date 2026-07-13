@@ -51,10 +51,17 @@
 # print(count)                     
 
 #MULTIPLICATION TABLE OF 7
-
+# n=int(input("enter the number"))
 # for i in range(1,11):
-#     multi=7*i
-#     print("7 *",i,"=",multi) 
+#     multi=n*i
+#     print(n," *",i,"=",multi) 
+  
+
+
+
+
+
+
 # fact=1   
 # #factorial of 5
 # for i in range(1,6):

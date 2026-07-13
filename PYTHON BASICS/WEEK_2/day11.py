@@ -1,11 +1,11 @@
 #COUNT EVEN NUMBERS AND ODD NUMBERS
 
 # num=int(input("enter the range: "))
-# count=0
+# count_e=0
 # count_o=0
 # for i in range(1,num+1):
 #     if i%2==0:
-#         count+=1
+#         count_e+=1
 #     elif i%2!=0:
 #         count_o+=1 
 #     else:
@@ -46,3 +46,4 @@
 #     for j in range(1,i+1):
 #         print(j,end=" ")
 #     print("\n")    
+

@@ -1,4 +1,4 @@
-# #CONTROL FLOW STATEMENTS
+# #--------------------------------------------CONTROL FLOW STATEMENTS-----------------------------------------------------------
 
 # # conditional statement
 
@@ -144,13 +144,13 @@
 
 
 #q1 a company decided to give bonus of 5% of salary to an employee if his/her year of service is more than 5
-salary=int(input("enter the salary : "))
-num=int(input("enter the number of years worked:"))
-if num> 5:
-    bonus=salary*5/100
-    new_salary=salary+bonus
-    print("SALARY WITH BONUS:",new_salary)   
-else:
-    print("NO BONUS")                
+# salary=int(input("enter the salary : "))
+# num=int(input("enter the number of years worked:"))
+# if num> 5:
+#     bonus=salary*5/100
+#     new_salary=salary+bonus
+#     print("SALARY WITH BONUS:",new_salary)   
+# else:
+#     print("NO BONUS")                
                 
      
