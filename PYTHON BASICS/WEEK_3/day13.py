@@ -35,21 +35,21 @@
 
 #cricket score board
 
-num=int(input("enter the number of balls played: "))    
-total=0
-count_4=0
-count_6=0
-for i in range(1,num+1):
-    print("RUN ",i)
-    s=int(input(" score: "))
-    total+=s
-    if s==4:
-        count_4+=1
-    if s==6:
-        count_6+=1
-print("TOTAL SCORES:",total)   
-print("NO OF 4 :",count_4)    
-print("NO OF 6: ",count_6) 
+# num=int(input("enter the number of balls played: "))    
+# total=0
+# count_4=0
+# count_6=0
+# for i in range(1,num+1):
+#     print("RUN ",i)
+#     s=int(input(" score: "))
+#     total+=s
+#     if s==4:
+#         count_4+=1
+#     if s==6:
+#         count_6+=1
+# print("TOTAL SCORES:",total)   
+# print("NO OF 4 :",count_4)    
+# print("NO OF 6: ",count_6) 
             
        
         
