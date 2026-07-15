@@ -76,30 +76,30 @@
 #         print("*",end=" ")
 #     print()            
 
-rows=5
-for i in range(1,rows+1):
-    for j in range(1,rows+1):
-        if i==1  or   j==3:
-            print("*",end=" ")
-        else:
-            print(" ",end=" ")
-    print()            
+# rows=5
+# for i in range(1,rows+1):
+#     for j in range(1,rows+1):
+#         if i==1  or   j==3:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()            
  
-rows=5
-for i in range(1,rows+1):
-    for j in range(1,rows):
-        if i==1 or i==3 or j==1 or i==rows or i==j==4:
-            print("*",end=" ")
-        else:
-            print(" ",end=" ")
-    print()    
+# rows=5
+# for i in range(1,rows+1):
+#     for j in range(1,rows):
+#         if i==1 or i==3 or j==1 or i==rows or i==j==4:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()    
 
-#PRINT ALPHABETS PATTERNS  
-r=int(input("enter the no of rows:"))
-for i in range(1,r+1):
-    for j in range(1,i+1):
-        print(chr(64+j),end=" ")
-    print()    
+# #PRINT ALPHABETS PATTERNS  
+# r=int(input("enter the no of rows:"))
+# for i in range(1,r+1):
+#     for j in range(1,i+1):
+#         print(chr(64+j),end=" ")
+#     print()    
     
     
     
