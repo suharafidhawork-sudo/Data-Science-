@@ -19,15 +19,6 @@
 #     num=num//10
     
 
-    
-    
-
-    
-    
-    
-    
-
-
 
 # #CHECK PALINDROME OR NOT
 # num=int(input("enter the number:"))
