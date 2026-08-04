@@ -1,7 +1,7 @@
  AI/ML Engineer Learning Journey 
 
 Start Date: May 19, 2026  
-Goal: Become an AI/ML Engineer by October 2026  
+Goal: Become an AI/ML Engineer 
 Status: IN PROGRESS
 
 About This Project
@@ -16,4 +16,4 @@ I'm learning:
 - ✅ MLOps & Production Systems
 - ✅ Building Real Projects
 
-Course: Full-Stack AI Engineer 2026 (Udemy)  
+Course: Full-stack data science with gen ai  
