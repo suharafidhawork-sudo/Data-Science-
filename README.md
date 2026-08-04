@@ -1,12 +1,12 @@
- AI/ML Engineer Learning Journey 
+Data Science/AI/ML Engineer Learning Journey 
 
 Start Date: May 19, 2026  
-Goal: Become an AI/ML Engineer 
+Goal: Become an Data Science/AI/ML Engineer 
 Status: IN PROGRESS
 
 About This Project
 
-This repository documents my journey from student to AI/ML Engineer  
+This repository documents my journey from student to data science/AI/ML Engineer  
 
 I'm learning:
 - ✅ Python for Data Science
@@ -16,4 +16,4 @@ I'm learning:
 - ✅ MLOps & Production Systems
 - ✅ Building Real Projects
 
-Course: Full-stack data science with gen ai  
+Course: Full-stack data science with gen-ai 
