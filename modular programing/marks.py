@@ -1,0 +1,2 @@
+def total_marks(m1,m2,m3,m4):
+    return m1+m2+m3+m4
