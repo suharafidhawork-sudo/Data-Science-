@@ -1,0 +1,21 @@
+Employee_ID,Name,Department,Job_Title,Age,Salary,Performance_Score,Joining_Date
+EMP101,Aarav,Engineering,Senior Software Engineer,38,103859,4.2,2019-01-01
+EMP102,Ananya,Engineering,Software Engineer,41,107000,4.2,2019-04-08
+EMP103,Rohan,Marketing,SEO Analyst,36,63412,4.8,2019-07-15
+EMP104,Priya,Finance,Financial Analyst,32,102287,4.5,2019-10-21
+EMP105,Vikram,Sales,Account Executive,29,103407,5.0,2020-01-27
+EMP106,Neha,Sales,Account Executive,40,66050,4.2,2020-05-04
+EMP107,Rahul,Marketing,Marketing Specialist,40,99617,4.2,2020-08-10
+EMP108,Kavya,Human Resources,HR Associate,28,103631,3.8,2020-11-16
+EMP109,Arjun,Sales,Sales Executive,44,102875,3.8,2021-02-22
+EMP110,Sneha,Sales,Account Executive,32,109312,3.8,2021-05-31
+EMP111,Siddharth,Human Resources,HR Associate,32,97705,3.5,2021-09-06
+EMP112,Meera,Finance,Financial Analyst,40,111818,4.5,2021-12-13
+EMP113,Aditya,Finance,Accountant,40,98748,3.5,2022-03-21
+EMP114,Pooja,Sales,Sales Executive,43,103851,4.5,2022-06-27
+EMP115,Karan,Marketing,Content Manager,24,66736,4.5,2022-10-03
+EMP116,Riya,Human Resources,HR Associate,42,88754,4.2,2023-01-09
+EMP117,Nikhil,Finance,Financial Analyst,28,107937,4.0,2023-04-17
+EMP118,Divya,Finance,Accountant,44,117650,4.5,2023-07-24
+EMP119,Suresh,Finance,Accountant,42,68971,3.5,2023-10-30
+EMP120,Tanvi,Data Science,Data Scientist,32,111306,4.2,2024-01-01
